@@ -1,4 +1,4 @@
-![image](https://github.com/Daniel-christal/Search-Algorithm/assets/145742847/1feb579d-5dfc-47d2-9134-ee6de2ba08e4)# Linear Search and Binary search
+# Linear Search and Binary search
 ## Aim:
 To write a program to perform linear search and binary search using python programming.
 ## Equipment’s required:
